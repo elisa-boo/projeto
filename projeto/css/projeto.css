@@ -112,3 +112,14 @@ color: yellow;
     color: rgb(189, 40, 97);
     background-color: #0af37e;
     text-align:center;}
+#button{ 
+    background-color: lavenderblush;
+    color: black;
+    transition-duration: 0,5s;
+
+}
+#button:hover{
+    border:none;
+    background-color: cornflowerblue;
+    cursor: pointer;
+}
